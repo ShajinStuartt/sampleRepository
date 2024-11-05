@@ -1,1 +1,6 @@
 This is my sample Code. This is for learning Git.
+
+Git Commands I learnt today:
+1) git init
+2) git add
+3) git commit
