@@ -1,6 +1,14 @@
-This is my sample Code. This is for learning Git.
 
-Git Commands I learnt today:
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<h1>you have initialized using git.</h1>
+<h1>Git Commands I learnt today:
 1) git init
 2) git add
 3) git commit
+</h1>
+</body>
+</html>
